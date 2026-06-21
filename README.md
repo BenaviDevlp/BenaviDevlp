@@ -7,7 +7,7 @@
 Estudiante de Ingeniería de Software enfocado en ciberseguridad ofensiva, pentesting y automatización. Creo herramientas de seguridad y comparto conocimiento técnico a través de contenido educativo.
 
 <a href="https://www.youtube.com/@HackeandoPatos"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
-<a href="https://www.tiktok.com/@santiagobrz.5"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/></a>>
+<a href="https://www.tiktok.com/@santiagobrz.5"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/></a>
 <a href="mailto:sbenavidezr29@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 </div>
