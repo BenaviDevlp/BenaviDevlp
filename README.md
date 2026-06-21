@@ -7,8 +7,31 @@
 Estudiante de Ingeniería de Software enfocado en ciberseguridad ofensiva, pentesting y automatización. Creo herramientas de seguridad y comparto conocimiento técnico a través de contenido educativo.
 
 <a href="https://www.youtube.com/@HackeandoPatos"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
-<a href="https://www.tiktok.com/@santiagobrz.5"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/></a>
+<a href="https://www.tiktok.com/@santiagobrz.5"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/></a>>
 <a href="mailto:sbenavidezr29@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+</div>
+
+---
+
+## Proyecto Destacado
+
+<div align="center">
+
+### Linux Hub — Guía de Aprendizaje de Linux
+
+<a href="https://benavidevlp.github.io/LinuxHubLearningCode/">
+  <img src="https://api.microlink.io/?url=https://benavidevlp.github.io/LinuxHubLearningCode/&screenshot=true&meta=false&embed=screenshot.url" width="640" alt="Linux Hub Learning - Vista previa"/>
+</a>
+
+<p><b>Mi proyecto más completo:</b> una plataforma web interactiva para aprender Linux desde cero, con contenido estructurado por niveles, comandos prácticos y ejemplos guiados.</p>
+
+<a href="https://benavidevlp.github.io/LinuxHubLearningCode/"><img src="https://img.shields.io/badge/🌐_Ver_Demo-2EA44F?style=for-the-badge&logoColor=white" alt="Demo"/></a>
+<a href="https://github.com/benavidevlp/LinuxHubLearningCode"><img src="https://img.shields.io/badge/Código_Fuente-181717?style=for-the-badge&logo=github&logoColor=white" alt="Código"/></a>
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 </div>
 
